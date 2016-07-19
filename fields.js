@@ -1,0 +1,79 @@
+module.exports = [{
+  name: "social",
+  label: "website",
+  filter : function(value) {
+        return value[0].website
+      }
+},{
+  name: "zip",
+  label: "zip"
+},{
+  name:"photo_profile",
+  label:"photo_profile"
+},{
+  name:"facility_type_label",
+  label:"facility_type_label"
+},{
+  name:"phone",
+  label:"phone"
+},{
+  name:"overview",
+  label:"overview"
+},{
+  name:"operations_type_label",
+  label:"operations_type_label"
+},{
+  name:"state",
+  label:"state"
+},{
+  name:"email",
+  label:"email"
+},{
+  name:"operations_type_code",
+  label:"operations_type_code"
+},{
+  name:"address1",
+  label:"address1"
+},{
+  name:"address3",
+  label:"address3"
+},{
+  name:"section_id",
+  label:"section_id"
+},{
+  name:"address2",
+  label:"address2"
+},{
+  name:"section_name",
+  label:"section_name"
+},{
+  name:"course_type_label",
+  label:"course_type_label"
+},{
+  name:"address4",
+  label:"address4"
+},{
+  name:"market_type_label",
+  label:"market_type_label"
+},{
+  name:"photo_facility",
+  label:"photo_facility"
+},{
+  name:"course_type_code",
+  label:"course_type_code"
+},{
+  name:"facility_name",
+  label:"facility_name"
+},{
+  name:"city",
+  label:"city"
+},{
+  name:"facility_id",
+  label:"facility_id"
+},{
+  name:"market_type_code",
+  label:"market_type_code"
+},{
+  name:"facility_type_code",
+  label:"facility_type_code"
+}]
